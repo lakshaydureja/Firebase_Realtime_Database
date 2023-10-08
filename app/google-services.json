@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "895936264275",
+    "firebase_url": "https://learnrealtime-e98a0-default-rtdb.firebaseio.com",
+    "project_id": "learnrealtime-e98a0",
+    "storage_bucket": "learnrealtime-e98a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895936264275:android:4c208ffb65f29b4b742ea6",
+        "android_client_info": {
+          "package_name": "com.labs7.firebaserealtimedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzLTyaKbIxbUANU-4RL2G7V5W2cDM3QNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
